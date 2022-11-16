@@ -1,1 +1,1 @@
-# Predicting-AUDUSD-Using-Major-Regression-Model
+# Predicting-AUDUSD-Using-Major-Regression-Models
